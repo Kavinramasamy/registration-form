@@ -30,7 +30,7 @@ const App= () => {
         bg="white"
       >
         <Heading as="h1" size="xl" textAlign="center" mb={6} color="teal.500">
-          Registration Form
+          Registration-Form
         </Heading>
         <Formik
           initialValues={{ firstName: '', lastName: '', email: '', mobileNumber: '' }}
